@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C++ and DSA
 - 💞️ I’m looking to collaborate on DSA Projects
-- 📫 How to reach me jatinkalra0111@gmail.com
+- 📫 How to reach me jatinkalra1710@gmail.com
 
 <!---
 jatinkalra17/jatinkalra17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
